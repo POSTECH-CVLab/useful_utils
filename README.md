@@ -29,5 +29,9 @@ Requirements (Optional):
 ```
 
 ## Util Functions
-- Fixing the seed (torch_function/fix_seed.py)
+- Fixing the seed (torch_function/fix_seed.py) (Contributor: Yoonwoo Jeong, Boseung Jeong)
     - A function to completely fix the seeds of torch, numpy, and random.
+
+## Installation Guide
+- Installing zshell and conda (installation_guide/installation_cuda_conda_zsh.md) (Contributor: Dahyun Kang)
+    - Guide to download and activate zshell and conda. 
